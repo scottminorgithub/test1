@@ -1,0 +1,14 @@
+{
+    "name": "HelloOrchestration",
+    "instanceId": "9a528a9e926f4b46b7d3deaa134b7e8a",
+    "runtimeStatus": "Completed",
+    "input": null,
+    "customStatus": null,
+    "output": [
+        "Hello Tokyo!",
+        "Hello Seattle!",
+        "Hello London!"
+    ],
+    "createdTime": "2020-03-18T21:54:49Z",
+    "lastUpdatedTime": "2020-03-18T21:54:54Z"
+}
